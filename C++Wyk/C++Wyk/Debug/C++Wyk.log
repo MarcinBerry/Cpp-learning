@@ -1,0 +1,5 @@
+﻿  C++Wyk.cpp
+  Konstruktor.cpp
+  Generowanie kodu...
+C++Wyk.obj : error LNK2001: nierozpoznany symbol zewnętrzny "private: static class std::basic_ofstream<char,struct std::char_traits<char> > Konstruktor::plik" (?plik@Konstruktor@@0V?$basic_ofstream@DU?$char_traits@D@std@@@std@@A)
+C:\Users\Marcin-PC\source\repos\C++Wyk\Debug\C++Wyk.exe : fatal error LNK1120: liczba nierozpoznanych elementów zewnętrznych: 1

@@ -1,0 +1,3 @@
+﻿  Debbuging2.cpp
+c:\users\marcin-pc\source\repos\debbuging2\debbuging2\debbuging2.cpp(20): warning C4717: "CallA": cykliczne we wszystkich ścieżkach przepływu, funkcja spowoduje przepełnienie stosu w trakcie wykonywania
+  Debbuging2.vcxproj -> C:\Users\Marcin-PC\source\repos\Debbuging2\Debug\Debbuging2.exe

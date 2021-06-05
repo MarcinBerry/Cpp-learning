@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1472064097 source:e:\rӯne\c++\fibonacci\main.cpp
+	<iostream>
+	<iomanip>
+	<windows.h>
+

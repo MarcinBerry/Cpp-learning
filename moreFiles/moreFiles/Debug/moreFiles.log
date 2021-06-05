@@ -1,0 +1,3 @@
+﻿  moreFiles.cpp
+c:\users\marcin-pc\source\repos\morefiles\morefiles\add.h(1): warning C4067: nieoczekiwane tokeny występujące po dyrektywie preprocesora - oczekiwano nowego wiersza
+c:\users\marcin-pc\source\repos\morefiles\morefiles\add.h(2): error C2008: '.': nieoczekiwany w definicji makra

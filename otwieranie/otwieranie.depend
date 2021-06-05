@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1469715185 source:e:\rӯne\c++\otwieranie\main.cpp
+	<iostream>
+	<fstream>
+	<cstdlib>
+

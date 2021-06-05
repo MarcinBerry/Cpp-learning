@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1473549232 source:e:\rӯne\c++\gra\main.cpp
+	<iostream>
+	<stdlib.h>
+	<stdio.h>
+	<windows.h>
+	<conio.h>
+

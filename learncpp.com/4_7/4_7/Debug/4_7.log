@@ -1,0 +1,11 @@
+﻿  4_7.cpp
+c:\users\marcin-pc\source\repos\4_7\4_7\4_7.cpp(73): error C2275: "fraction": niedozwolone użycie tego typu jako wyrażenia
+  c:\users\marcin-pc\source\repos\4_7\4_7\4_7.cpp(63): note: zobacz deklarację „fraction”
+c:\users\marcin-pc\source\repos\4_7\4_7\4_7.cpp(73): error C2146: błąd składniowy: brakuje „)” przed identyfikatorem „f1”
+c:\users\marcin-pc\source\repos\4_7\4_7\4_7.cpp(74): error C2143: błąd składniowy: brakuje „;” przed „<<”
+c:\users\marcin-pc\source\repos\4_7\4_7\4_7.cpp(74): error C4430: brak specyfikatora typu - założono, że int. Uwaga: C++ nie obsługuje domyślnie typu int
+c:\users\marcin-pc\source\repos\4_7\4_7\4_7.cpp(74): error C2371: "std::cout": zmiana definicji; różne typy podstawowe
+  c:\program files\microsoft\visualstudio\vc\tools\msvc\14.14.26428\include\iostream(29): note: zobacz deklarację „std::cout”
+c:\users\marcin-pc\source\repos\4_7\4_7\4_7.cpp(77): error C2059: błąd składniowy: „return”
+c:\users\marcin-pc\source\repos\4_7\4_7\4_7.cpp(78): error C2059: błąd składniowy: „}”
+c:\users\marcin-pc\source\repos\4_7\4_7\4_7.cpp(78): error C2143: błąd składniowy: brakuje „;” przed „}”
